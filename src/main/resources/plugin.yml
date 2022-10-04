@@ -1,0 +1,10 @@
+name: BlockCrafts
+version: '${version}'
+main: dev.akex.blockcrafts.BlockCrafts
+api-version: 1.19
+authors: [ Akex06 ]
+description: Block crafts
+
+commands:
+  crafts:
+    permission: BlockCrafts.operator
